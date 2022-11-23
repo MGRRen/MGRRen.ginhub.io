@@ -1,0 +1,7 @@
+rain: дождь
+day: день
+sun: солнце
+light: свет
+room: комната
+garden: сад
+roof: крыша
